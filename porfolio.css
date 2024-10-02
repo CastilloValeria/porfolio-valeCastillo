@@ -1,0 +1,29 @@
+.logo{
+    font-size: 30px;
+    font-weight: 800;
+}
+.menu-icon-action{
+    display: none;
+
+}
+.navList{
+    display: flex;
+}
+
+.navList a {
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    border-bottom: 2px solid transparent;
+    transition: all .5s ease;
+}
+
+.navList a:hover{
+    border-bottom: 2px solid white;
+}
+.porfolio-section-div {
+}
+.ul-porfolio {
+}
+.li-porfolio {
+}
